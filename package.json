@@ -1,0 +1,22 @@
+{
+  "name": "sit725-2021-t2-prac3",
+  "version": "1.0.0",
+  "description": "Deakin - Applied Software Engineering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markvandenhoff/sit725-2021-t2-prac3.git"
+  },
+  "author": "Mark Vandenhoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markvandenhoff/sit725-2021-t2-prac3/issues"
+  },
+  "homepage": "https://github.com/markvandenhoff/sit725-2021-t2-prac3#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
